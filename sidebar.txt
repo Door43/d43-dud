@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dud:home|Door43 (dud)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dud|d43-dud repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dud/archive/master.zip|d43-dud.zip]]
+
+**Recent Changes**
+{{changes>ns = dud}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dud|Ethnologue data]]
+
